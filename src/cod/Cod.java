@@ -19,6 +19,7 @@ public class Cod {
     public static void main(String[] args) {
        JOptionPane.showMessageDialog(null, "Ejercicio de Cod");
        //f
+       JOptionPane.showMessageDialog(null, args);
     }
     
 }
